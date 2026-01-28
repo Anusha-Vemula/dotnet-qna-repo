@@ -1,48 +1,17 @@
 # .NET Interview Questions & Answers 🚀
 
-This repository contains commonly asked **.NET interview questions** with clear and concise answers.
+Welcome! This repository contains categorized .NET interview questions.
 
 ---
 
-## 📌 C# Basics
+## 📂 Topics
 
-<details>
-<summary><b>1. What is .NET?</b></summary>
-
-.NET is a **free, open-source developer platform** by Microsoft used to build:
-- Web applications
-- Desktop applications
-- Cloud services
-- APIs
-
-It supports multiple languages like **C#, F#, and VB.NET**.
-
-</details>
-
-<details>
-<summary><b>2. What is CLR?</b></summary>
-
-CLR (Common Language Runtime) is the **execution engine** of .NET.
-It provides:
-- Memory management
-- Garbage collection
-- Exception handling
-- Security
-
-</details>
+- 📘 [C#](CSharp.md)
+- 🌐 [ASP.NET Core](ASPNETCore.md)
+- 🔌 [Web API](WebAPI.md)
+- ☁️ [Azure](Azure.md)
+- 🗄️ [SQL](SQL.md)
 
 ---
 
-## 📌 ASP.NET Core
-
-<details>
-<summary><b>3. What is Middleware in ASP.NET Core?</b></summary>
-
-Middleware is software that handles **HTTP requests and responses** in a pipeline.
-
-Examples:
-- Authentication
-- Logging
-- Exception handling
-
-</details>
+👉 Click any topic to view expandable interview questions.
